@@ -1,1 +1,12 @@
-transactions.txt
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
