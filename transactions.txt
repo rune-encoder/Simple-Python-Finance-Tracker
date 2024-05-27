@@ -1,0 +1,5 @@
+income, Work,1500.0
+income,Hobby,120.0
+expense,School,500.0
+expense,Groceries,250.0
+income,Other,50.0
